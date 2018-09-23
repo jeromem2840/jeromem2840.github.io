@@ -66,3 +66,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+@media only screen and (max-width:600px) {
+	.mlg {
+		left:0;
+		width:100%;
+	}
+}
