@@ -4,18 +4,18 @@ body {
 }
 #mlgjerry {
     top:0;
-    left:10%;
+    left:20%;
     z-index:-1;
-    width:80%;
+    width:60%;
     height:100%;
     display:block;
     position:absolute;
 }
 #mlgspiderman {
     top:0;
-    left:10%;
+    left:20%;
     z-index:-1;
-    width:80%;
+    width:60%;
     height:100%;
     display:block;
     position:absolute;
