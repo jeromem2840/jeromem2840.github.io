@@ -1,7 +1,13 @@
+html {
+	min-height: 100%;
+}
 body {
-    background:gray;
-    margin: 60px auto;
-    width: 70%;
+	margin: 0;
+	min-height: 100%;
+	overflow-x:hidden;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background:linear-gradient(to bottom right, #333, #555, #2f2f2f, #c0c0c0);
 }
 .mlg {
     top:0;
