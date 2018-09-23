@@ -3,25 +3,7 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-#mlgjerry {
-    top:0;
-    left:22.5%;
-    z-index:-1;
-    width:55%;
-    height:100%;
-    display:block;
-    position:absolute;
-}
-#mlgshrek {
-    top:0;
-    left:22.5%;
-    z-index:-1;
-    width:55%;
-    height:100%;
-    display:block;
-    position:absolute;
-}
-#mlgspiderman {
+.mlg {
     top:0;
     left:22.5%;
     z-index:-1;
