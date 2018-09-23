@@ -1,6 +1,6 @@
 @font-face {
     font-family:MLG;
-    src:url(/ChaletLondonNineteenSixty.ttf);
+    src:url("../ChaletLondonNineteenSixty.ttf") format("truetype");
 }
 * {
 	font-family:MLG;
