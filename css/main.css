@@ -1,43 +1,43 @@
-* {
-	color:whitesmoke;
-	text-align:center;
-	font-family:Comic Sans MS;
-	text-shadow:2px 2px 5px black;
-}
 body {
-	background:#2f2f2f;
+    margin: 60px auto;
+    width: 70%;
 }
-.menu {
-	top:0;
-	left:0;
-	position:absolute;
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
 }
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #555;
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
 }
-
-li {
-    	float: left;
-    	box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);
-    	border-right:1px solid #bbb;
-}
-
-li:last-child {
-    border-right: none;
-}
-
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
+a {
     text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
 }
 
-li a:hover:not(.active) {
-    background-color: #111;
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
 }
