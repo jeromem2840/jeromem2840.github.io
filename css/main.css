@@ -11,6 +11,15 @@ body {
     display:block;
     position:absolute;
 }
+#mlgspiderman {
+    top:0;
+    left:10%;
+    z-index:-1;
+    width:100%;
+    height:80%;
+    display:block;
+    position:absolute;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
