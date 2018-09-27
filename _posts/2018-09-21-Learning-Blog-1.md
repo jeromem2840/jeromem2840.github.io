@@ -1,1 +1,1 @@
-
+Over the course of this week i have learned about how the Markup language works that is how im making this post now neato right but i wonder what else i can do when i learn more about it its very complex in some ways i hear but maybe i should pay attention to Mr Allatta and see well thats all for now 
