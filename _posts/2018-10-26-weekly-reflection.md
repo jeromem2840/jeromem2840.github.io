@@ -1,0 +1,1 @@
+Our class is about seeing the stucture of an expression learning how that espression works and putting that to action as we learn more and more Like racets,when you use racets you apply the expreesion like the function you want but its a little diffrent you arange it with brackets and you have all the things for the function.
