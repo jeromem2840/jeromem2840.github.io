@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "flag v2"
+title: "Flag v2"
 date: 2018-12-14
 ---
 This is the code i have so far for my flag 
