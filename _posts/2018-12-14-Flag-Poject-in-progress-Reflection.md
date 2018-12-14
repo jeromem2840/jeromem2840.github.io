@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flag v2"
+title: "Flag Poject-In progress"
 date: 2018-12-14
 ---
 This is the code i have so far for my flag 
