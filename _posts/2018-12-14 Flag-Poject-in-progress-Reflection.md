@@ -16,5 +16,5 @@ This is the code i have so far for my flag
 (define stage1 (put-image stripe x y Base))
 ```
 This is what it produces 
-![Flagimage](/images/flag V2.png)
+![Flagimage](/images/Flag V2.png)
 Looking back this was a very titus process because of the the way you have to really look into positioning 
